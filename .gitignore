@@ -1,0 +1,8 @@
+/node_modules
+/file.log
+
+.env
+
+/Commands.bat
+
+/config/config.json
